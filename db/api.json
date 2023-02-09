@@ -1,0 +1,63 @@
+[
+    {
+        "precio": 500, 
+        "id": 1,
+        "title": "cafe",
+        "imageUrl": "https://picsum.photos/id/30/600"
+    },
+    {
+        "precio": 400, 
+        "id": 2,
+        "title": "arror",
+        "imageUrl": "https://picsum.photos/id/15/600"
+    },
+    {
+        "precio": 300, 
+        "id": 3,
+        "title": "lechuga",
+        "imageUrl": "https://picsum.photos/id/20/600"
+    },
+    {
+        "precio": 200, 
+        "id": 4,
+        "title": "manzana",
+        "imageUrl": "https://picsum.photos/id/30/600"
+    },
+    {
+        "precio": 100, 
+        "id": 5,
+        "title": "platano",
+        "imageUrl": "https://picsum.photos/id/40/600"
+    },
+    {
+        "precio": 500, 
+        "id": 6,
+        "title": "chocolate",
+        "imageUrl": "https://picsum.photos/id/50/600"
+    },
+    {
+        "precio": 200, 
+        "id": 7,
+        "title": "gansito",
+        "imageUrl": "https://picsum.photos/id/60/600"
+    },
+    {
+        "precio": 200, 
+        "id": 8,
+        "title": "cocacola",
+        "imageUrl": "https://picsum.photos/id/70/600"
+    },
+    {
+        "precio": 200, 
+        "id": 9,
+        "title": "cigarro",
+        "imageUrl": "https://picsum.photos/id/80/600"
+    },
+    {
+        "precio": 200, 
+        "id": 10,
+        "title": "pepino",
+        "imageUrl": "https://picsum.photos/id/90/600"
+    }
+
+]
